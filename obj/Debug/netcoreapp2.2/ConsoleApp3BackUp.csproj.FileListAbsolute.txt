@@ -1,0 +1,11 @@
+C:\Users\Remie\source\repos\ConsoleApp3BackUp\ConsoleApp3BackUp\bin\Debug\netcoreapp2.2\ConsoleApp3BackUp.deps.json
+C:\Users\Remie\source\repos\ConsoleApp3BackUp\ConsoleApp3BackUp\bin\Debug\netcoreapp2.2\ConsoleApp3BackUp.runtimeconfig.json
+C:\Users\Remie\source\repos\ConsoleApp3BackUp\ConsoleApp3BackUp\bin\Debug\netcoreapp2.2\ConsoleApp3BackUp.runtimeconfig.dev.json
+C:\Users\Remie\source\repos\ConsoleApp3BackUp\ConsoleApp3BackUp\bin\Debug\netcoreapp2.2\ConsoleApp3BackUp.dll
+C:\Users\Remie\source\repos\ConsoleApp3BackUp\ConsoleApp3BackUp\bin\Debug\netcoreapp2.2\ConsoleApp3BackUp.pdb
+C:\Users\Remie\source\repos\ConsoleApp3BackUp\ConsoleApp3BackUp\obj\Debug\netcoreapp2.2\ConsoleApp3BackUp.csprojAssemblyReference.cache
+C:\Users\Remie\source\repos\ConsoleApp3BackUp\ConsoleApp3BackUp\obj\Debug\netcoreapp2.2\ConsoleApp3BackUp.csproj.CoreCompileInputs.cache
+C:\Users\Remie\source\repos\ConsoleApp3BackUp\ConsoleApp3BackUp\obj\Debug\netcoreapp2.2\ConsoleApp3BackUp.AssemblyInfoInputs.cache
+C:\Users\Remie\source\repos\ConsoleApp3BackUp\ConsoleApp3BackUp\obj\Debug\netcoreapp2.2\ConsoleApp3BackUp.AssemblyInfo.cs
+C:\Users\Remie\source\repos\ConsoleApp3BackUp\ConsoleApp3BackUp\obj\Debug\netcoreapp2.2\ConsoleApp3BackUp.dll
+C:\Users\Remie\source\repos\ConsoleApp3BackUp\ConsoleApp3BackUp\obj\Debug\netcoreapp2.2\ConsoleApp3BackUp.pdb
